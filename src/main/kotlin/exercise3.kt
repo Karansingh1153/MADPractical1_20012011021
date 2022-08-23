@@ -25,10 +25,10 @@ class Student(firstname:String,lastname:String,age: Int,eno:Long,branch:String,C
 fun main(){
     val students = ArrayList<Student>()
 
-    students.add(Student("Parth","Bhuva",20,20012011013,"CE","C","AB7"))
-    students.add(Student("Smit","Akbari",20,20012011003,"CE","C","AB7"))
-    students.add(Student("Karan","Chauhan",15,20012011020,"CE","C","AB7"))
-    students.add(Student("Harsh","Chauhan",10,20012011021,"CE","C","AB7"))
-    students.add(Student("Kashyap","Bhalodiya",20,20012011010,"CE","C","AB7"))
+    students.add(Student("Sahil","singh",20,20012011043,"CE","C","AB7"))
+    students.add(Student("Smit","Akbari",20,20012011053,"CE","C","AB7"))
+    students.add(Student("Karan","Chauhan",15,20012011021,"CE","C","AB7"))
+    students.add(Student("Harsh","Chauhan",10,20012011020,"CE","C","AB7"))
+    students.add(Student("Sumit","Singh",20,20012011010,"CE","C","AB7"))
 
 }
